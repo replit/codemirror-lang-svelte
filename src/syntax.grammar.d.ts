@@ -1,3 +1,3 @@
-import { Parser } from "@lezer/common";
+import { Parser } from "@lezer/common"
 
-export declare const parser: Parser;
+export declare const parser: Parser
